@@ -1,5 +1,4 @@
-
 window.NIORA_CONFIG = {
-  SUPABASE_URL: "PASTE_SUPABASE_URL_HERE",
-  SUPABASE_ANON_KEY: "PASTE_SUPABASE_ANON_KEY_HERE"
+  SUPABASE_URL: "https://wmgboyjrvqqdnxnmpwfs.supabase.co",
+  SUPABASE_ANON_KEY: "твой_publishable_key"
 };
